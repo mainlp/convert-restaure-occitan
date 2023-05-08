@@ -1,7 +1,7 @@
 # Converting RESTAURE Occitan to UPOS
 
 This script converts the [Annotated Corpus for Occitan](https://zenodo.org/record/1182949) (Bras ea 2018; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)) to UPOS by splitting contractions.
-It was used for the paper *Does manipulating tokenization aid cross-lingual transfer? A study on POS tagging for non-standardized languages* (Blaschke ea, VarDial 2023, link to come).
+It was used for the paper *Does manipulating tokenization aid cross-lingual transfer? A study on POS tagging for non-standardized languages* (Blaschke ea, VarDial 2023, [link](https://aclanthology.org/2023.vardial-1.5/)).
 
 
 ## Usage
